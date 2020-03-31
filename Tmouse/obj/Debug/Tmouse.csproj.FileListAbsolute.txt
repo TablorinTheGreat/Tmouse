@@ -1,0 +1,81 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\Tmouse.dll
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\Tmouse.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\Tmouse.Tmouse.apk
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\Tmouse.Tmouse-Signed.apk
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\Tmouse.dll
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\Tmouse.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\bin\Tmouse.Tmouse.apk
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\res\layout\settings.xml
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\res\layout\main.xml
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\res\values\strings.xml
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\res\drawable\icon.png
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\res\menu\menu.xml
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\R.cs.flag
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\uploadflags.txt
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\Tmouse.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\Java.Interop.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\Mono.Android.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\mscorlib.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\System.Core.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\System.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\System.Xml.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\System.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\android\assets\Tmouse.dll.mdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\Tmouse\Tmouse\obj\Debug\Tmouse.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\Tmouse.dll
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\Tmouse.pdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\Tmouse.dll
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\Tmouse.pdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\Tmouse.Tmouse.apk
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\Tmouse.Tmouse-Signed.apk
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\bin\Tmouse.Tmouse.apk
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\res\layout\settings.xml
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\res\layout\main.xml
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\res\values\strings.xml
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\res\drawable\icon.png
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\res\menu\menu.xml
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\R.cs.flag
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\uploadflags.txt
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\Tmouse.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\mscorlib.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\System.Core.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\System.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\System.Xml.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\android\assets\Tmouse.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\Tmouse.csprojResolveAssemblyReference.cache
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\res\layout\layout1.xml
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\obj\Debug\Tmouse.dll.mdb
+C:\Users\Rosenfeld\Downloads\Tmouse\Tmouse\bin\Debug\Tmouse.dll.mdb

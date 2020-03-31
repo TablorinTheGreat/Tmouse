@@ -1,0 +1,12 @@
+Tmouse.addons, Tmouse;md520c4869fc78badcb38d5e16e1d9feb7a.addons
+Tmouse.addons, Tmouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md520c4869fc78badcb38d5e16e1d9feb7a.addons
+Tmouse.addons;md520c4869fc78badcb38d5e16e1d9feb7a.addons
+tmouse.addons;md520c4869fc78badcb38d5e16e1d9feb7a.addons
+Tmouse.MainActivity, Tmouse;md520c4869fc78badcb38d5e16e1d9feb7a.MainActivity
+Tmouse.MainActivity, Tmouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md520c4869fc78badcb38d5e16e1d9feb7a.MainActivity
+Tmouse.MainActivity;md520c4869fc78badcb38d5e16e1d9feb7a.MainActivity
+tmouse.MainActivity;md520c4869fc78badcb38d5e16e1d9feb7a.MainActivity
+Tmouse.settings, Tmouse;md520c4869fc78badcb38d5e16e1d9feb7a.settings
+Tmouse.settings, Tmouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md520c4869fc78badcb38d5e16e1d9feb7a.settings
+Tmouse.settings;md520c4869fc78badcb38d5e16e1d9feb7a.settings
+tmouse.settings;md520c4869fc78badcb38d5e16e1d9feb7a.settings
